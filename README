@@ -1,0 +1,6 @@
+#=============================================================================================
+# RepRapRays.py modifies reprap gcode files to control a laser
+# It strips out E-values and replaces them with laser off commands and adds laser on commands
+# v0.1, written by Alan McKiernan (amk), GPL2 licence
+#=============================================================================================
+
